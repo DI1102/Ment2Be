@@ -1,0 +1,159 @@
+[33m627780e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfooter[m[33m, [m[1;31morigin/fix-auth-contact[m[33m, [m[1;32mfix-auth-contact[m[33m)[m Improved the UI/UX of ContactUsPage
+[33m9009719[m import npm
+[33mae5cb70[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Merge pull request #103 from Harkiratcodess/fix/mobile-responsiveness
+[33m507a40b[m Merge pull request #108 from ThePrabhu/feat/complete-light-dark-theme-system
+[33me640ccc[m Potential fix for pull request finding
+[33m0da2861[m fixed light Theme Ui in Landing Page
+[33m2b70bd7[m feat: implement complete light/dark theme system and landing page UI enhancements
+[33mad1458c[m fix: mobile responsiveness across all affected components
+[33mbeea3ff[m Merge pull request #93 from suhanimaurya05/fix-Login-page
+[33m5042ddd[m Fix Login Page issue
+[33m5aae1c8[m Merge pull request #83 from stuti-sudo-123/fix/cta-button-login-redirect
+[33m586acd9[m fix: CTA button now redirects to login page fixes #[issue number:#82]
+[33m25cca63[m Merge pull request #79 from Nitya-003/main
+[33m011eaa7[m Create CODE_OF_CONDUCT.md
+[33mfd89862[m Update README.md
+[33mc6c90e3[m Merge pull request #78 from Nitya-003/main
+[33mb842989[m Update package.json
+[33m6bb44d8[m Create LICENSE
+[33mf83c912[m Merge branch 'main' of https://github.com/arshchouhan/K23DX
+[33m35aad5c[m Hello-world
+[33m0b0c5b8[m Rename project from MentorLink to Ment2Be
+[33m4dbd5d5[m fix: remove non-existent BookingCalendar import
+[33mb26da96[m chore: add cron job to keep render backend alive and fix login
+[33me8fc2be[m Merge pull request #65 from arshchouhan/revert-59-ISSUE-47
+[33m6faa4a4[m Revert "Issue 47"
+[33mede0483[m Merge pull request #59 from Ayaanshaikh12243/ISSUE-47
+[33mafc655e[m Merge branch 'main' into ISSUE-47
+[33m4590a90[m Merge pull request #57 from Aditya8369/54
+[33m97bc32f[m bug fix
+[33mdec3fa4[m bug fix
+[33mdf8e552[m Merge pull request #56 from Aditya8369/53
+[33md4aa3f3[m Merge pull request #49 from Ayaanshaikh12243/ISSUE-43
+[33m760fb60[m Merge branch 'main' into ISSUE-47
+[33me31ae4d[m PRICING-
+[33m8cc64a6[m ISSUE-48
+[33m2fa9d24[m #54 Mentor Availability Calendar Integration
+[33m6c236dc[m feat: Real-time Notification System for Bookings and Messages
+[33m9b9cefd[m feat: Advanced Mentor Search and Filtering
+[33mc4d184b[m Merge branch 'main' into ISSUE-43
+[33me2cc1e8[m Merge pull request #45 from Ayaanshaikh12243/ISSUE-44
+[33m79be943[m Merge pull request #50 from arshchouhan/revert-40-feature/mentor-analytics
+[33m7c6a0ad[m Revert "feat: Implement Advanced Mentor Analytics Dashboard"
+[33m51bbfdc[m Merge branch 'main' into ISSUE-43
+[33m5ce8b96[m Missing Rate Limiting 🔴 #43
+[33m6641073[m ISSUE-44
+[33mb191766[m Merge pull request #40 from SatyamPandey-07/feature/mentor-analytics
+[33m9be1caa[m chore: Remove temporary seeding and testing scripts
+[33md4a4fbb[m feat: Implement Advanced Mentor Analytics Dashboard with Grayscale Premium UI (L3)
+[33m74b196c[m Merge pull request #35 from Ayaanshaikh12243/ISSUE-28
+[33m090ed43[m Merge branch 'main' into feature/mentor-analytics
+[33m67d8cb3[m Merge pull request #41 from SatyamPandey-07/feature/gamified-achievements
+[33ma94daf1[m feat: Implement Gamified Achievement System with Real-time Milestone Notifications (L3)
+[33mfcd05cd[m feat: Implement Advanced Mentor Analytics Dashboard with Exportable Insights (L3)
+[33m95b88a1[m Merge pull request #29 from Shalini828/mobile-navbar-fix
+[33m751a8c0[m Merge pull request #30 from Ayaanshaikh12243/ISSUE-26
+[33m7fea30d[m Merge pull request #36 from Ewocs/main
+[33m8af26d9[m view counter
+[33m8d95aff[m Implemented Readme
+[33m75acb42[m ✅ Issue #28 - RESOLVED 🟢
+[33m1537ddf[m . N+1 Query Problem - SOLVED 🟢
+[33m52cfdf3[m Added responsive hamburger menu and mobile navigation
+[33m99f7e41[m Improve mobile responsiveness of landing navbar
+[33m7d80b80[m Patched bugs in login flow
+[33m7c0ba1f[m Merge branch 'main' of https://github.com/arshchouhan/K23DX
+[33mfc39b2d[m Cleaned index.js file
+[33m5c1eebf[m Merge pull request #22 from Shalini828/fix-footer-cleanup
+[33mbfabee6[m fix: clean footer icons, remove broken links, update copyright
+[33m8b75f91[m Improved Index.js file readabilty
+[33mb6d7459[m Merge pull request #17 from shivamgupta4757/fix-loading-state-auth
+[33m5163795[m Merge pull request #16 from Diksha78-bot/fix/api-base-url
+[33m06ef710[m Merge pull request #21 from komalharshita/docs/readme-toc-common-errors
+[33m1e57da7[m docs: improve README with table of contents and common setup errors
+[33mf445406[m fix(auth): add loading state to prevent multiple submissions on login/register
+[33m06b7cfe[m Fix hardcoded backend URLs by centralizing API configuration
+[33md8c8223[m Merge pull request #15 from aagmanpal/feat/scroll-to-top
+[33m85d3b42[m Scroll To Top Button Added
+[33mafbfb57[m feat: add themed Terms of Service page
+[33m02a4e7e[m Fix Vite config to properly set production API URLs at build time
+[33m21e48a1[m Add production and development environment files for proper API URL configuration
+[33mdd0d74d[m Merge branch 'main' of https://github.com/arshchouhan/K23DX
+[33m6153816[m Bug fixes for ECWoC26
+[33m2d1edf9[m Merge pull request #5 from Ayaanshaikh12243/ISSUE-2
+[33mbe0a6c8[m Password Hashing Inconsistency #2
+[33mb3e4ffb[m Create README.md
+[33m1a2bbf2[m Bug fixees
+[33mb1dc3e7[m Add Tailwind styling to button, fix React Router setup, and clean up root dependencies
+[33m8921c2a[m Rolling Update
+[33me56edcb[m Rolling Update
+[33mbf4b0fb[m Rolling Update
+[33mec9ffa9[m Rolling Update
+[33m63326bd[m Update README.md
+[33mb97e6f2[m Rolling Update
+[33m0c7ffa0[m Rolling Update
+[33m8bb322b[m Rolling Update
+[33m1ddf01f[m Rolling Update
+[33m6ba1fe2[m Rolling Update
+[33m74cfaa7[m Rolling Update
+[33m6361547[m Rolling Update
+[33m911e227[m Rolling Update
+[33me1ee6c0[m Rolling Update
+[33m2bddce0[m Rolling Update
+[33m56e0a60[m Rolling Update
+[33mf2b009e[m Minor Update
+[33ma611bed[m Minor Update
+[33m8a1f7e6[m Minor Update
+[33m7644b5b[m Minor Update
+[33m885f662[m Minor Update
+[33m80873ea[m Minor Update
+[33m7613287[m Google Auth implemented
+[33mb88395f[m Updated Ment2Be branding - use logo-hat.png for browser tab and dashboards
+[33m4ea57a7[m Updated Ment2Be branding - use logo-hat.png for browser tab and dashboards
+[33m76c35ef[m Updated logo to clean white graduation cap design
+[33m5b9375a[m Added Ment2Be branding - white hat logo and browser tab title
+[33m6270e22[m Added hosted frontend domain to backend CORS configuration
+[33mf2c2a3a[m Updated frontend API configuration to use environment variables for backend URL
+[33mf6a9b1a[m Added vercel.json for client-side routing
+[33m8997683[m Added Jard File
+[33m2e0d4fd[m Added Jard File
+[33ma0e7579[m UI experince enhanced
+[33m92d3471[m UI experince enhanced
+[33m805a78a[m UI experince enhanced
+[33m72f6aad[m UI experince enhanced
+[33m5b28f7a[m Add the forum feature using nodejs and java maven for both mentors and mentees
+[33mb1edae9[m Add the forum feature using nodejs and java maven for both mentors and mentees
+[33mad341eb[m Merge branch 'task'
+[33mb1a0688[m Upgraded the java springboot backend and created new apis for fetching the chats and tasks
+[33m46edcd0[m Merge branch 'task'
+[33md65cbd4[m Used java spring boot to add backend for the tasks feature used mc=vn clean package to build and complie the new updated code for maven part
+[33m677506d[m Used java spring boot to add backend for the tasks feature used mc=vn clean package to build and complie the new updated code for maven part
+[33m9b94f66[m Task interface in the mentor dashbaord created
+[33m9f8e637[m Used Maven to incorporate java microservcie for the chat backend
+[33m172810b[m Implemented the Chat Interface for the Student page
+[33m3e61476[m Craeted a new feature branch to integrate the backend for chatapp for the mentor using mongod
+[33mf1c6e76[m Craeted a new feature branch to integrate the backend for chatapp for the mentor using mongod
+[33mbd905dc[m Merge branch 'VideoAudioStreaming'
+[33m10255e7[m ZegoCloud APi Integrated in the stremaing service
+[33ma1ea3b4[m Merge branch 'MentorBookings'
+[33m6dc0ba3[m Connected webrtc for the audio vedio streaming
+[33m59341ed[m Added AudioVideo Streaming feature for the users and ALso integrated a chat interface fot their interaction
+[33m7f7b6ce[m Added AudioVideo Streaming feature for the users and ALso integrated a chat interface fot their interaction
+[33me1f9908[m Mentor details implemented for the students
+[33m842f768[m Updated the mentor dashbaord which allows the mentor to uplaod his/her details
+[33me6d4da8[m Updated
+[33m07084c5[m feat: Refactor backend routes and controllers for sessions, skills, users, payments, reviews, and mentors
+[33m2e6c98f[m Student and Mentor Dashboard ui structure created
+[33m4eadf7a[m Merge branch 'main' of https://github.com/arshchouhan/K23DX
+[33m2824f0c[m Refactor authentication and user controller logic; implement auth middleware for secure routes
+[33m7d35d53[m test
+[33mf0f6f50[m login/logout backend
+[33mb8f4abf[m Web rtc implemented.. to be integrated with backend
+[33m43a31b3[m Remove unused app.js file from the Backend directory
+[33mbb20258[m Implement user registration and authentication logic with password hashing and token generation
+[33m515cab7[m Implement authentication and user controller functions
+[33m4ab11f6[m Add route handlers for authentication, payments, reviews, sessions, skills, and user management
+[33mac7e1ad[m created the folder structure
+[33m7431d26[m Delete Backend/.env
+[33m38556f0[m Merge branch 'main' of https://github.com/arshchouhan/K23DX
+[33mcd6273c[m created the folder structure
+[33m4b41234[m Initial commit
